@@ -1,0 +1,8 @@
+We share these plugins as we no longer use esx.
+Please do not consult us about esx plugins. 
+We are only interested in QBcore.
+
+
+- kaganworld & TD
+
+- kagan#0111
